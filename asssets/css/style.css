@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pic_style {
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-inline: 30vw;
+    margin-block: 0.1vw;
+    padding: 50px;
+    border: solid 4px black;
+    border-radius: 10px;
+    border-top-width: 0.4rem;
+   
+    
+}
+    
